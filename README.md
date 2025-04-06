@@ -1,4 +1,4 @@
-I am a final year undergraduate at SLIIT with a passion for computer science and much enthusiast in full-stack development & machine learning. I have already been switched on over programming mode such as 
+I am a final-year undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), with a passion for computer science and much enthusiast in full-stack development & machine learning. I have already been switched on over programming mode such as 
 C,
 C++,
 HTML, 
