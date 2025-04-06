@@ -1,4 +1,4 @@
-I am an undergraduate at SLIIT with a passion for computer science and much enthusiast in full-stack development & machine learning. I have already been switched on over programming mode such as 
+I am a final year undergraduate at SLIIT with a passion for computer science and much enthusiast in full-stack development & machine learning. I have already been switched on over programming mode such as 
 C,
 C++,
 HTML, 
@@ -17,7 +17,7 @@ Python etc.
 
 Furthermore, I am interested in data analysis and to use big data on processes. Feeling more familiar vibe with mathematics and statistics over analytics. More wealthiest character on Power BI tool. Identifying data ,prioritizing them makes me such a pretty inner blush. " Do clustering, Enjoy in Agglomerative ✨️ "
 
-Currently, university research is going under DevOps.
+Currently, university 4th year research is going under DevOps.
 Key Strategies (ML/Cloud) :
 •	Machine Learning 
 •	Cloud Architecture 
