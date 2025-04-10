@@ -47,13 +47,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rovinyawijeramaofficial&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovinyawijeramaofficial&layout=compact&theme=radical" />
-</p>
 
 ---
 # 📊 GitHub Stats:
