@@ -1,32 +1,50 @@
-I am a final-year undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), with a passion for computer science and much enthusiast in full-stack development & machine learning. I have already been switched on over programming mode such as 
-C,
-C++,
-HTML, 
-Java,
-PHP, 
-React.js, 
-SQL,
-MySQL,
-MongoDB, 
-Firebase, 
-JavaScript,
-Web Development,
-Cascading Style Sheets(CSS), 
-MERN, 
-Python etc.
+![Header Image](https://your-header-image-url.com)
 
-Furthermore, I am interested in data analysis and to use big data on processes. Feeling more familiar vibe with mathematics and statistics over analytics. More wealthiest character on Power BI tool. Identifying data ,prioritizing them makes me such a pretty inner blush. " Do clustering, Enjoy in Agglomerative ✨️ "
+# Hi there, I'm Rovinya Wijerama! 👋
 
-Currently, university 4th year research is going under DevOps.
-Key Strategies (ML/Cloud) :
-•	Machine Learning 
-•	Cloud Architecture 
-• FastAPI
+I am a final-year undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), passionate about computer science, full-stack development, and machine learning. I thrive on building innovative solutions and continuously expanding my knowledge.
 
-As well as @university following up 
-•	Deep Learning 
-•	Cloud Computing 
+## 🔧 Technologies & Tools
 
-I am seeking opportunities in the field of computer science .
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,java,python,mysql,mongodb,firebase&theme=light)
 
-You may access to my previous GitHub profile: https://github.com/IT21343520
+## 📈 GitHub Stats
+
+![Rovinya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rovinyawijeramaofficial&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rovinyawijeramaofficial&layout=compact&theme=radical)
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rovinyawijeramaofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rovinyawijeramaofficial&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rovinya-wijerama-785964215/)](https://www.linkedin.com/in/rovinya-wijerama-785964215/)
+[![Credly](https://img.shields.io/badge/-Credly-orange?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com/users/rovinya-wijerama)](https://www.credly.com/users/rovinya-wijerama)
+
+## 💼 Projects
+
+Here are some of my notable projects:
+
+- **Project Name**  
+  ![Project Image](https://your-project-image-url.com)
+  Description of the project. [View on GitHub](https://github.com/rovinyawijeramaofficial/project-repo)
+
+- **Project Name**  
+  ![Project Image](https://your-project-image-url.com)
+  Description of the project. [View on GitHub](https://github.com/rovinyawijeramaofficial/project-repo)
+
+## ✨ Fun Fact
+
+![Random Meme](https://random-memer.herokuapp.com/)
+
+---
+
+*Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rovinyawijeramaofficial)
