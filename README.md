@@ -1,50 +1,98 @@
-![Header Image](https://your-header-image-url.com)
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://your-header-image-url.com" alt="Header Image" />
+</p>
 
-# Hi there, I'm Rovinya Wijerama! 👋
+<h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
 
-I am a final-year undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), passionate about computer science, full-stack development, and machine learning. I thrive on building innovative solutions and continuously expanding my knowledge.
-
-## 🔧 Technologies & Tools
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,java,python,mysql,mongodb,firebase&theme=light)
-
-## 📈 GitHub Stats
-
-![Rovinya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rovinyawijeramaofficial&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rovinyawijeramaofficial&layout=compact&theme=radical)
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rovinyawijeramaofficial&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rovinyawijeramaofficial&theme=radical)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rovinya-wijerama-785964215/)](https://www.linkedin.com/in/rovinya-wijerama-785964215/)
-[![Credly](https://img.shields.io/badge/-Credly-orange?style=flat-square&logo=credly&logoColor=white&link=https://www.credly.com/users/rovinya-wijerama)](https://www.credly.com/users/rovinya-wijerama)
-
-## 💼 Projects
-
-Here are some of my notable projects:
-
-- **Project Name**  
-  ![Project Image](https://your-project-image-url.com)
-  Description of the project. [View on GitHub](https://github.com/rovinyawijeramaofficial/project-repo)
-
-- **Project Name**  
-  ![Project Image](https://your-project-image-url.com)
-  Description of the project. [View on GitHub](https://github.com/rovinyawijeramaofficial/project-repo)
-
-## ✨ Fun Fact
-
-![Random Meme](https://random-memer.herokuapp.com/)
+<p align="center">
+  🎓 Final-year undergraduate @ <strong>Sri Lanka Institute of Information Technology (SLIIT)</strong><br/>
+  💡 Passionate about Full-Stack Development | Machine Learning | AI | Web Technologies<br/>
+  🌱 Continuously learning and building impactful digital solutions<br/>
+</p>
 
 ---
 
-*Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+## 🔧 Tech Stack & Tools
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rovinyawijeramaofficial)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,python,mysql,mongodb,firebase,c,cpp,figma&theme=light" />
+</p>
+
+---
+
+## 🛠️ Notable Projects
+
+### 🎓 Final Year Research Project
+> *An intelligent deep learning-based mental health early detection system using sentiment analysis*
+- 🧠 NLP, Deep Learning (CNN, LSTM, BiLSTM)
+- 📊 Dataset: IMDB, Twitter
+- 💬 Real-time web-based prediction
+- 🔗 [View Repo](https://github.com/rovinyawijeramaofficial/Mental-Health-Detection-System)
+
+---
+
+### 💼 Task Delay Prediction in Construction Projects
+> *A Machine Learning model for predicting task delays in large-scale construction datasets.*
+- 📁 PySpark, Google Colab
+- 📉 Real-time classification system with 80%+ accuracy
+- 🔗 [Coming Soon]
+
+---
+
+### 🌐 SLIIT ERP System (Old Profile)
+> *Web-based ERP application with dashboard management, authentication & real-time logging*
+- 🛠️ PHP, MySQL, JS, Bootstrap
+- 🔗 [View Repo](https://github.com/IT21343520/SLIIT-ERP-System)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rovinyawijeramaofficial&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rovinyawijeramaofficial&layout=compact&theme=radical" />
+</p>
+
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AshenWijesingha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AshenWijesingha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rovinya-wijerama-785964215/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/rovinya-wijerama">
+    <img src="https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎉 Fun Corner
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rovinyawijeramaofficial" alt="Visitor Count" />
+</p>
+
