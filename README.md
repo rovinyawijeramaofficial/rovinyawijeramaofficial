@@ -21,6 +21,8 @@
 
 ---
 
+You may access to my previous GitHub profile: https://github.com/IT21343520
+
 ## 🛠️ Notable Projects
 
 ### 🎓 Final Year Research Project
