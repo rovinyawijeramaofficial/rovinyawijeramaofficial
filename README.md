@@ -49,18 +49,6 @@ You may access to my previous GitHub profile: https://github.com/IT21343520
 
 ---
 
-
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshenWijesingha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AshenWijesingha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshenWijesingha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshenWijesingha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
