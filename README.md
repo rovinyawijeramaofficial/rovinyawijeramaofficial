@@ -1,4 +1,6 @@
 ![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/2461d43c-f2e6-46be-b4a8-1a645c7ec426)
+![ChatGPT Image May 4, 2025, 05_59_55 PM](https://github.com/user-attachments/assets/d545c8a6-900b-4390-88bf-6584dd8ad75c)
+
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
 
