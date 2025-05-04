@@ -1,6 +1,6 @@
 ## Header Banner
 
-[🎥 Watch the banner video](https://github.com/your-username/your-repo/blob/main/assets/banner.mp4)
+[🎥 Watch the banner video](https://github.com/your-username/your-repo/blob/main/Blue Green Geometric Company LinkedIn Banner/.mp4)
 
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
