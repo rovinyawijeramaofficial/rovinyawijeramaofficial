@@ -1,7 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="![ChatGPT Image May 4, 2025, 05_59_55 PM](https://github.com/user-attachments/assets/6c233601-2e87-4afd-ab81-e91271a2e90a)
-" alt="Header Image" />
+  <img src="![ChatGPT Image May 4, 2025, 05_59_55 PM](https://github.com/user-attachments/assets/6c233601-2e87-4afd-ab81-e91271a2e90a)" />
 </p>
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
