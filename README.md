@@ -1,10 +1,6 @@
 ## Header Banner
 
-<video width="100%" controls>
-  <source src="assets/banner.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[🎥 Watch the banner video](https://github.com/your-username/your-repo/blob/main/assets/banner.mp4)
 
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
