@@ -1,7 +1,6 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://www.canva.com/design/DAGmflzzCm0/gZQqz1X0uh3PTdWQA5_7Nw/watch?utm_content=DAGmflzzCm0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7805fdf393" alt=" />
-</p>
+## Header Banner
+
+[![Watch the banner video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/your-username/your-repo/blob/main/assets/banner.mp4)
 
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
