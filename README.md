@@ -1,6 +1,4 @@
-(https://github.com/user-attachments/assets/fd524f28-4737-4e7f-95e9-4b4b91667549)
-
-
+![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/2461d43c-f2e6-46be-b4a8-1a645c7ec426)
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
 
