@@ -1,7 +1,4 @@
-## 🚀 Header Banner
-
-[![Watch the banner video](https://github.com/rovinyawijeramaofficial/rovinyawijeramaofficial/assets/![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/fd524f28-4737-4e7f-95e9-4b4b91667549)
-.png)](https://github.com/rovinyawijeramaofficial/rovinyawijeramaofficial/assets/blue_green_banner.mp4)
+(https://github.com/user-attachments/assets/fd524f28-4737-4e7f-95e9-4b4b91667549)
 
 
 
