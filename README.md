@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://your-header-image-url.com" alt="Header Image" />
+  <img src="C:\Users\Rovi\OneDrive\Documents\RoviZ\Linkedin Banners" alt="Header Image" />
 </p>
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
