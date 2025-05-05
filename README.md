@@ -13,10 +13,18 @@
 
 ## 🔧 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,python,mysql,mongodb,firebase,c,cpp,figma&theme=light" />
-</p>
-
+🚀 Software Development & Frameworks
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,js,html,css,bootstrap,tailwind,typescript,ejs,redux,webpack,npm,ajax" /> </p>
+🧠 Machine Learning & AI
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,scikit-learn,tensorflow,pytorch,keras,jupyter" /> </p>
+☁️ Cloud & DevOps Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,gcp,firebase,heroku,vercel,git,github,gitlab,linux,bash" /> </p>
+🛢️ Databases & Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" /> </p>
+🧰 Development Tools & Software Engineering
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma,canva,trello,jira" /> </p>
+📊 Data & Analytics
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pandas,numpy" /> </p>
 ---
 
 You may access to my previous GitHub profile: https://github.com/IT21343520
