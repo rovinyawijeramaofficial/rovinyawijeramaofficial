@@ -1,5 +1,4 @@
-![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/f8ca94d5-5870-4ebc-b3b3-c328c389292e)
-
+![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/6d1008a7-8573-4b4b-b1fb-ea107ebb7cbd)
 
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
@@ -67,7 +66,7 @@ You may access to my previous GitHub profile: https://github.com/IT21343520
 ## 🎉 Fun Corner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" />
 </p>
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
