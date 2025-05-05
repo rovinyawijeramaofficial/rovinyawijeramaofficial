@@ -286,7 +286,7 @@ Before this profile, I maintained another GitHub account where I contributed to 
 ---
 
 
-📫 **Let's Connect!**  
+## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-fff?style=flat&logo=gmail&logoColor=red)](mailto:youremail@example.com)
@@ -294,13 +294,8 @@ Before this profile, I maintained another GitHub account where I contributed to 
 
 ---
 
-## 🎉 Fun Corner
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" />
-</p>
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🔭 Vision & Values
+<p align="center"> <img src="https://media.giphy.com/media/3o7aCVpB8Y6rL7jBGM/giphy.gif" width="800" alt="Vision and Values GIF" /> </p> <blockquote align="center"> “Programs must be written for people to read, and only incidentally for machines to execute.”<br> — <strong>Harold Abelson</strong>, co-author of <em>Structure and Interpretation of Computer Programs</em> </blockquote>
 
 ---
 
