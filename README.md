@@ -4,7 +4,12 @@
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
 
 <p align="center">
-  Software Engineer | DevOps Engineer | AI/ML Engineer @MA³SK D TEC (part-time) | Freelancer | Content Creator @Programmer ShowTimes | NextJS Full-Stack Software Engineer @Codezela Technologies | Collaborator @Jacklup Solutions | Final Year UG @SLIIT | Researcher 
+  Software Engineer | DevOps Engineer | AI/ML Engineer @MA³SK D TEC (part-time) 
+  Freelancer 
+  Content Creator @Programmer ShowTimes
+  NextJS Full-Stack Software Engineer @Codezela Technologies 
+  Collaborator @Jacklup Solutions 
+  Final Year UG @SLIIT | Researcher 
 </p>
 
 ---
