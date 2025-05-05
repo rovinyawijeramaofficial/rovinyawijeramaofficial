@@ -22,7 +22,7 @@
 ## 🧾 Previous Work
 Before this profile, I maintained another GitHub account where I contributed to various academic, research, and development projects.
 
-🔗 View my previous GitHub profile »
+🔗 https://github.com/IT21343520
 
 
 ---
