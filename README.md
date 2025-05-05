@@ -4,9 +4,9 @@
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
 
 <p align="center">
-  🎓 Final-year undergraduate @ <strong>Sri Lanka Institute of Information Technology (SLIIT)</strong><br/>
-  💡 Passionate about Full-Stack Development | Machine Learning | AI | Web Technologies<br/>
-  🌱 Continuously learning and building impactful digital solutions<br/>
+  
+  💡 SE| DevOps| AI|ML @MA³SK D TEC (part-time) | Freelancer | Content Creator @Programmer ShowTimes | NextJS Full-Stack Software Engineer @Codezela Technologies | Collaborator @Jacklup Solutions | Final Year UG @SLIIT | Researcher
+ 
 </p>
 
 ---
