@@ -1,7 +1,10 @@
 ![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/6d1008a7-8573-4b4b-b1fb-ea107ebb7cbd)
 
 
-<h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
+<h1 align="center">
+  Hi there, I'm Rovinya Wijerama! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/>
+</h1>
 
 ---
 
@@ -12,6 +15,14 @@
   Collaborator @ <strong>Jacklup Solutions</strong> <br/>
   Final Year Undergraduate @ <strong>SLIIT</strong> | Researcher
 </p>
+
+
+---
+
+## 🧾 Previous Work
+Before this profile, I maintained another GitHub account where I contributed to various academic, research, and development projects.
+
+🔗 View my previous GitHub profile »
 
 
 ---
@@ -231,10 +242,6 @@
 ![Time Series Analysis](https://img.shields.io/badge/Time_Series_Analysis-9A031E?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-2EC4B6?style=for-the-badge)
 
-
----
-
-You may access to my previous GitHub profile: https://github.com/IT21343520
 
 ---
 
