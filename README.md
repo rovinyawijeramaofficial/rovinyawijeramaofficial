@@ -13,15 +13,6 @@
 </p>
 
 
-
-## 🔧 Tech Stack & Tools
-
-Great! Here's a **visually enhanced version** of your `## 🔧 Tech Stack & Tools` section using **badges** (from [shields.io](https://shields.io/)) and grouped for clarity in your **GitHub Profile README**.
-
-You can paste this directly into your `README.md` file.
-
----
-
 ## 🔧 Tech Stack & Tools
 
 ### 🚀 Software Development & Frameworks
