@@ -3,13 +3,14 @@
 
 <h1 align="center">Hi there, I'm Rovinya Wijerama! 👋</h1>
 
+---
+
 <p align="center">
-  Software Engineer | DevOps Engineer | AI/ML Engineer @MA³SK D TEC (part-time) 
-  Freelancer 
-  Content Creator @Programmer ShowTimes
-  NextJS Full-Stack Software Engineer @Codezela Technologies 
-  Collaborator @Jacklup Solutions 
-  Final Year UG @SLIIT | Researcher 
+  <strong>Software Engineer</strong> | <strong>DevOps Engineer</strong> | <strong>AI/ML Enthusiast</strong> <br/>
+  Part-time Engineer @ <strong>MA³SK D TEC</strong> | Full-Stack Developer (Next.js) @ <strong>Codezela Technologies</strong> <br/>
+  Freelancer | Content Creator @ <strong>Programmer ShowTimes</strong> <br/>
+  Collaborator @ <strong>Jacklup Solutions</strong> <br/>
+  Final Year Undergraduate @ <strong>SLIIT</strong> | Researcher
 </p>
 
 
