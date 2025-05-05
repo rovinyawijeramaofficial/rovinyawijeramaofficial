@@ -16,103 +16,23 @@
 
 ## 🔧 Tech Stack & Tools
 
-## 🚀 Software Development & Frameworks
+🚀 Software Development & Frameworks
+React.js, Node.js, Express.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, TypeScript, EJS, Redux, Axios, Webpack, NPM, JSON, AJAX, RESTful API, MVC Architecture, Responsive Design, Cross-Browser Compatibility, PWA
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,js,html,css,bootstrap,tailwind,typescript,redux,webpack,npm,ajax" />
-</p>
+🧠 Machine Learning & AI
+Machine Learning, Artificial Intelligence, Logistic Regression, Naive Bayes, Decision Trees, Random Forest, SVM, KNN, K-Means, PCA, NLP, Scikit-learn, TensorFlow, PyTorch, Keras, Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab, Jupyter, Model Evaluation, Feature Engineering, Data Preprocessing, Hyperparameter Tuning, Cross-validation, Predictive Modeling
 
-**Other tools:**
-- EJS (Embedded JavaScript Templates)
-- JSON
-- RESTful API Design
-- MVC Architecture
-- Responsive Web Design
-- Cross-Browser Compatibility
-- Progressive Web Apps (PWAs)
+☁️ Cloud & DevOps Tools
+AWS Lambda, EC2, EventBridge, S3, CloudWatch, GCP, Firebase, Heroku, Vercel, Docker, GitHub Actions, CI/CD, Jenkins, Git, GitHub, GitLab, IaC, Bash, Linux, System Monitoring, Log Analysis, Load Balancing, Nginx
 
----
+🛢️ Databases & Backend
+MongoDB, MongoDB Atlas, Mongoose, MySQL, PostgreSQL, Firebase Realtime DB, Firestore, SQL, NoSQL, Schema Design, Data Modeling, CRUD, Relational DBs, Aggregation Framework
 
-## 🧠 Machine Learning & AI
+🧰 Development Tools & Software Engineering
+VS Code, Eclipse, Postman, Insomnia, Swagger, Figma, Canva, Trello, Jira, Agile, Scrum, SDLC, Unit Testing, Integration Testing, Debugging, Version Control, Documentation, Code Review, Wireframing
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,keras,jupyter" />
-</p>
-
-**Other tools:**
-- Logistic Regression
-- Naive Bayes
-- Decision Trees
-- Random Forest
-- Support Vector Machines (SVM)
-- K-Nearest Neighbors (KNN)
-- K-Means Clustering
-- Principal Component Analysis (PCA)
-- Natural Language Processing (NLP)
-- Pandas, NumPy, Matplotlib, Seaborn
-- Google Colab
-- Model Evaluation (Accuracy, Precision, Recall, F1)
-- Feature Engineering, Data Preprocessing
-- Hyperparameter Tuning, Cross-validation, Predictive Modeling
-
----
-
-## ☁️ Cloud & DevOps Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,gcp,firebase,heroku,vercel,git,github,gitlab,linux,bash" />
-</p>
-
-**Other tools:**
-- AWS Lambda, Amazon EC2, Amazon EventBridge, AWS S3, AWS CloudWatch
-- GitHub Actions, CI/CD Pipelines, Jenkins
-- Infrastructure as Code (IaC)
-- System Monitoring, Log Analysis, Load Balancing, Nginx
-
----
-
-## 🛢️ Databases & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-</p>
-
-**Other tools:**
-- MongoDB Atlas, Mongoose
-- Firebase Realtime Database, Firebase Firestore
-- SQL, NoSQL
-- Database Schema Design, Data Modeling, CRUD Operations, Relational Databases, Aggregation Framework (MongoDB)
-
----
-
-## 🧰 Development Tools & Software Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma,canva,trello,jira" />
-</p>
-
-**Other tools:**
-- Insomnia, Swagger (OpenAPI)
-- GitHub Projects
-- Agile Methodology, Scrum, SDLC
-- Unit Testing, Integration Testing, Debugging, Version Control
-- Software Documentation, Code Review, Wireframing
-
----
-
-## 📊 Data & Analytics
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
-</p>
-
-**Other tools:**
-- Data Visualization, Exploratory Data Analysis (EDA)
-- Data Cleaning, Data Normalization, Statistical Analysis, Correlation Analysis
-- Confusion Matrix, ROC Curve, A/B Testing
-- Google Sheets, Excel (Pivot Tables, Charts)
-
-
+📊 Data & Analytics
+Data Visualization, EDA, Data Cleaning, Normalization, Statistical Analysis, Correlation, Confusion Matrix, ROC Curve, A/B Testing, Google Sheets, Excel (Pivot Tables, Charts)
 
 You may access to my previous GitHub profile: https://github.com/IT21343520
 
