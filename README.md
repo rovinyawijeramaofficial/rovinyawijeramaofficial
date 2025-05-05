@@ -213,6 +213,8 @@ You may access to my previous GitHub profile: https://github.com/IT21343520
 | **📦 Auto Scaling Dashboard (AWS)** | CloudFormation, EC2, ASG, CloudWatch        | Auto Scaling group setup with pre-installed software & cost optimization tracking.      | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/aws-auto-scaling-dashboard)                                                       |
 | **📚 Data Analysis Toolkit**        | Python, Jupyter, Matplotlib, Seaborn        | Toolkit for EDA, visualizations, preprocessing & model evaluation techniques.           | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/data-analysis-toolkit)                                                            |
 
+![ChatGPT Image May 5, 2025, 02_43_35 PM](https://github.com/user-attachments/assets/761876bc-a321-48aa-abe6-de082d9ab57a)
+
 ---
 
 
