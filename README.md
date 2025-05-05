@@ -173,6 +173,9 @@
 
 You may access to my previous GitHub profile: https://github.com/IT21343520
 
+---
+
+
 ## 🛠️ Notable Projects
 
 ### 🎓 Final Year Research Project
@@ -198,6 +201,18 @@ You may access to my previous GitHub profile: https://github.com/IT21343520
 - 🔗 [View Repo](https://github.com/IT21343520/SLIIT-ERP-System)
 
 ---
+
+| 💼 Project                          | ⚙️ Tech Stack                               | 📝 Description                                                                          | 🔗 Links                                                                                                                                 |
+| ----------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **🧠 AI Task Timeline Predictor**   | React, Node.js, MongoDB, Python, TensorFlow | Predicts task delays and analyzes complexity in Agile boards using ML & CI/CD.          | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/task-timeline-predictor) \| [🌐 Live](https://task-timeline-predictor.vercel.app) |
+| **☁️ AWS Cloud Monitoring Tool**    | AWS EC2, Lambda, EventBridge, CloudWatch    | Monitors AWS resources in real-time with alert triggers, charts, and log analysis.      | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/aws-cloud-monitor)                                                                |
+| **📊 Health Analytics Dashboard**   | Flask, Pandas, Scikit-learn, Bootstrap      | An ML-powered dashboard to visualize health metrics and predict risk factors.           | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/health-ml-dashboard)                                                              |
+| **🛒 E-tech Shop LK**               | React, Redux, Firebase, Tailwind CSS        | A complete e-commerce platform with auth, admin panel, and latest offers module.        | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/e-tech-shop-lk) \| [🌐 Live](https://e-tech-shop-lk.vercel.app)                   |
+| **🎮 Gamified Task Manager**        | MERN Stack, Chart.js, Node Mailer           | Final year project integrating gamification, progress tracking, and task visualization. | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/task-gamifier)                                                                    |
+| **📅 Event Filter Platform**        | Next.js, SWR, Firebase, Vercel              | Dynamic event listing platform with date filtering and location search.                 | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/events-platform)                                                                  |
+| **📦 Auto Scaling Dashboard (AWS)** | CloudFormation, EC2, ASG, CloudWatch        | Auto Scaling group setup with pre-installed software & cost optimization tracking.      | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/aws-auto-scaling-dashboard)                                                       |
+| **📚 Data Analysis Toolkit**        | Python, Jupyter, Matplotlib, Seaborn        | Toolkit for EDA, visualizations, preprocessing & model evaluation techniques.           | [🔗 GitHub](https://github.com/rovinyawijeramaofficial/data-analysis-toolkit)                                                            |
+
 
 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
