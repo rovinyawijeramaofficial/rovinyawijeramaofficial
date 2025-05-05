@@ -1,4 +1,5 @@
-![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/2461d43c-f2e6-46be-b4a8-1a645c7ec426)
+![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/f8ca94d5-5870-4ebc-b3b3-c328c389292e)
+
 ![ChatGPT Image May 4, 2025, 05_59_55 PM](https://github.com/user-attachments/assets/c81e9dfc-63bb-492d-9a72-da8fc79d897e)
 
 
