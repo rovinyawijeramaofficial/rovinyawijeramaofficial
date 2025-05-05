@@ -12,36 +12,40 @@
   Final Year UG @SLIIT | Researcher 
 </p>
 
+---
 
 ## 🔧 Tech Stack & Tools
 
 ### 🚀 Software Development & Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![EJS](https://img.shields.io/badge/EJS-8E44AD?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn)
-![REST API](https://img.shields.io/badge/REST-API-FF6F00?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
 ![AJAX](https://img.shields.io/badge/AJAX-4A90E2?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC_Architecture-2C3E50?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-16A085?style=for-the-badge)
+![PWA](https://img.shields.io/badge/PWA-4285F4?style=for-the-badge&logo=googlechrome)
 
 ---
 
 ### 🧠 Machine Learning & AI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-6C3483?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
@@ -49,43 +53,43 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-3498DB?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-2C3E50?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-16A085?style=for-the-badge)
-![KNN](https://img.shields.io/badge/KNN-2980B9?style=for-the-badge)
-![K-Means](https://img.shields.io/badge/K--Means-1ABC9C?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-2ECC71?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model--Evaluation-34495E?style=for-the-badge)
-![Cross Validation](https://img.shields.io/badge/Cross--Validation-8E44AD?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![NLP](https://img.shields.io/badge/NLP-9B59B6?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-17A589?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-2874A6?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-117A65?style=for-the-badge)
+![Naive Bayes](https://img.shields.io/badge/Naive_Bayes-DC7633?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-CA6F1E?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FF5733?style=for-the-badge)
 
 
 ---
 
 ### ☁️ Cloud & DevOps Tools
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge)
+![EventBridge](https://img.shields.io/badge/AWS_EventBridge-8E44AD?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-F90?style=for-the-badge&logo=awslambda)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-27AE60?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
 ![IaC](https://img.shields.io/badge/IaC-2C3E50?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 
 
 ---
@@ -165,6 +169,7 @@
 ![Charts](https://img.shields.io/badge/Charts-F39C12?style=for-the-badge)
 
 
+---
 
 You may access to my previous GitHub profile: https://github.com/IT21343520
 
