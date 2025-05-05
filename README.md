@@ -16,18 +16,102 @@
 
 ## 🔧 Tech Stack & Tools
 
-🚀 Software Development & Frameworks
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,js,html,css,bootstrap,tailwind,typescript,ejs,redux,webpack,npm,ajax" /> </p>
-🧠 Machine Learning & AI
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,scikit-learn,tensorflow,pytorch,keras,jupyter" /> </p>
-☁️ Cloud & DevOps Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,gcp,firebase,heroku,vercel,git,github,gitlab,linux,bash" /> </p>
-🛢️ Databases & Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" /> </p>
-🧰 Development Tools & Software Engineering
-<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma,canva,trello,jira" /> </p>
-📊 Data & Analytics
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,pandas,numpy" /> </p>
+## 🚀 Software Development & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,js,html,css,bootstrap,tailwind,typescript,redux,webpack,npm,ajax" />
+</p>
+
+**Other tools:**
+- EJS (Embedded JavaScript Templates)
+- JSON
+- RESTful API Design
+- MVC Architecture
+- Responsive Web Design
+- Cross-Browser Compatibility
+- Progressive Web Apps (PWAs)
+
+---
+
+## 🧠 Machine Learning & AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,keras,jupyter" />
+</p>
+
+**Other tools:**
+- Logistic Regression
+- Naive Bayes
+- Decision Trees
+- Random Forest
+- Support Vector Machines (SVM)
+- K-Nearest Neighbors (KNN)
+- K-Means Clustering
+- Principal Component Analysis (PCA)
+- Natural Language Processing (NLP)
+- Pandas, NumPy, Matplotlib, Seaborn
+- Google Colab
+- Model Evaluation (Accuracy, Precision, Recall, F1)
+- Feature Engineering, Data Preprocessing
+- Hyperparameter Tuning, Cross-validation, Predictive Modeling
+
+---
+
+## ☁️ Cloud & DevOps Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,gcp,firebase,heroku,vercel,git,github,gitlab,linux,bash" />
+</p>
+
+**Other tools:**
+- AWS Lambda, Amazon EC2, Amazon EventBridge, AWS S3, AWS CloudWatch
+- GitHub Actions, CI/CD Pipelines, Jenkins
+- Infrastructure as Code (IaC)
+- System Monitoring, Log Analysis, Load Balancing, Nginx
+
+---
+
+## 🛢️ Databases & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
+
+**Other tools:**
+- MongoDB Atlas, Mongoose
+- Firebase Realtime Database, Firebase Firestore
+- SQL, NoSQL
+- Database Schema Design, Data Modeling, CRUD Operations, Relational Databases, Aggregation Framework (MongoDB)
+
+---
+
+## 🧰 Development Tools & Software Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,postman,figma,canva,trello,jira" />
+</p>
+
+**Other tools:**
+- Insomnia, Swagger (OpenAPI)
+- GitHub Projects
+- Agile Methodology, Scrum, SDLC
+- Unit Testing, Integration Testing, Debugging, Version Control
+- Software Documentation, Code Review, Wireframing
+
+---
+
+## 📊 Data & Analytics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
+</p>
+
+**Other tools:**
+- Data Visualization, Exploratory Data Analysis (EDA)
+- Data Cleaning, Data Normalization, Statistical Analysis, Correlation Analysis
+- Confusion Matrix, ROC Curve, A/B Testing
+- Google Sheets, Excel (Pivot Tables, Charts)
+
 
 
 You may access to my previous GitHub profile: https://github.com/IT21343520
