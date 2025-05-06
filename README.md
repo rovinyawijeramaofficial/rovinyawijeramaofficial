@@ -246,7 +246,7 @@ Before this profile, I maintained another GitHub account where I contributed to 
 ---
 
 
-## 💼 Project Highlights
+## 📌 Key Projects
 
 ### 🎓 Final Year Research Project
 > *An intelligent deep learning-based mental health early detection system using sentiment analysis*
